@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+this is for the merge conflicted solving purpose
